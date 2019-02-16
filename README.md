@@ -10,4 +10,4 @@ The chart will display for each day:
 The project was developed following the course "The Python Mega Course" on Udemy.
 
 A screenshot of the project:
-![capture](https://imgur.com/a/RJ5UQ9K)
+![capture](Screenshot.png)
